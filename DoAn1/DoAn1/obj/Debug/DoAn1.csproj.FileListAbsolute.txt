@@ -1,0 +1,746 @@
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.DanhMuc.resources
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.Form1.resources
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+D:\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+D:\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+D:\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.SuaHangHoa.resources
+D:\DoAn1\DoAn1\obj\Debug\DoAn1.KiemTraMaMH.resources
+E:\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+E:\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+E:\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.DanhMuc.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.Form1.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.KiemTraMaMH.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.SuaHangHoa.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.KhachHang.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.NhaCungCap.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.NhanVien.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.ThemvaSuaNhaCungCap.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+C:\Users\admin\Desktop\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+C:\Users\admin\Desktop\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.DanhMuc.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.Form1.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.SuaHangHoa.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.ThemvaSuaNhaCungCap.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.KhoNhapVe.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.NhapHang.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.BanHang.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+C:\Users\K\Desktop\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+C:\Users\K\Desktop\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.BanHang.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.DanhMuc.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.Form1.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.KhoNhapVe.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.LuaChonNhapKho.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.NhapHang.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.SuaHangHoa.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.ThemvaSuaNhaCungCap.resources
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+C:\Users\K\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.HoaDon.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.HoaDon.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.LuaChonNhapKho.resources
+C:\Users\admin\Desktop\DoAn1\DoAn1\obj\Debug\DoAn1.LichSuNhapHang.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\DoAn1.exe.config
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\DoAn1.exe
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\DoAn1.pdb
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.DanhMuc.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.Form1.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.HoaDon.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.KhoNhapVe.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.LichSuNhapHang.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.LuaChonNhapKho.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.NhapHang.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.SuaHangHoa.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.ThemvaSuaNhaCungCap.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.exe
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.pdb
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.QuanLiBanHang.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\EnvDTE.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\stdole.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\EnvDTE80.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\VSLangProj.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\VSLangProj80.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\VSLangProj2.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.exe.config
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.ReportDanhThu.resources
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+C:\Users\K\Desktop\DoAn11111\DoAn1\obj\Debug\DoAn1.reportInHoaDon.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\DoAn1.exe.config
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\DoAn1.exe
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\DoAn1.pdb
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\EnvDTE80.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\VSLangProj.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\VSLangProj80.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\VSLangProj2.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.exe.config
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.DanhMuc.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.Form1.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.HoaDon.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.KhoNhapVe.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.LichSuNhapHang.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.LuaChonNhapKho.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.NhapHang.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.QuanLiBanHang.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.ReportDanhThu.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.reportInHoaDon.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.SuaHangHoa.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.ThemvaSuaNhaCungCap.resources
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.exe
+C:\Users\admin\Desktop\DoAn2\DoAn1\obj\Debug\DoAn1.pdb
+D:\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\DoAn2\DoAn1\bin\Debug\DoAn1.exe.config
+D:\DoAn2\DoAn1\bin\Debug\DoAn1.exe
+D:\DoAn2\DoAn1\bin\Debug\DoAn1.pdb
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DoAn2\DoAn1\bin\Debug\EnvDTE.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DoAn2\DoAn1\bin\Debug\stdole.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\DoAn2\DoAn1\bin\Debug\EnvDTE80.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\DoAn2\DoAn1\bin\Debug\VSLangProj.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\DoAn2\DoAn1\bin\Debug\VSLangProj80.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\DoAn2\DoAn1\bin\Debug\Newtonsoft.Json.dll
+D:\DoAn2\DoAn1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.MSXML.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Framework.dll
+D:\DoAn2\DoAn1\bin\Debug\VSLangProj2.dll
+D:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.exe.config
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.DanhMuc.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.Form1.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.HoaDon.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.KhoNhapVe.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.LichSuNhapHang.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.LuaChonNhapKho.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.NhapHang.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.QuanLiBanHang.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.ReportDanhThu.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.reportInHoaDon.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.exe
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.pdb
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.NhanVien.resources
+D:\DoAn2\DoAn1\obj\Debug\DoAn1.KhachHang.resources
+E:\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DoAn2\DoAn1\bin\Debug\DoAn1.exe.config
+E:\DoAn2\DoAn1\bin\Debug\DoAn1.exe
+E:\DoAn2\DoAn1\bin\Debug\DoAn1.pdb
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DoAn2\DoAn1\bin\Debug\EnvDTE.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DoAn2\DoAn1\bin\Debug\stdole.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\DoAn2\DoAn1\bin\Debug\EnvDTE80.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\DoAn2\DoAn1\bin\Debug\VSLangProj.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\DoAn2\DoAn1\bin\Debug\VSLangProj80.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\DoAn2\DoAn1\bin\Debug\Newtonsoft.Json.dll
+E:\DoAn2\DoAn1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.MSXML.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Framework.dll
+E:\DoAn2\DoAn1\bin\Debug\VSLangProj2.dll
+E:\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.exe.config
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.DanhMuc.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.Form1.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.HoaDon.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.KhachHang.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.KhoNhapVe.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.LichSuNhapHang.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.LuaChonNhapKho.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.NhanVien.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.NhapHang.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.QuanLiBanHang.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.ReportDanhThu.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.reportInHoaDon.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.exe
+E:\DoAn2\DoAn1\obj\Debug\DoAn1.pdb
+D:\English\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\English\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\English\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\English\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\English\DoAn2\DoAn1\bin\Debug\DoAn1.exe.config
+D:\English\DoAn2\DoAn1\bin\Debug\DoAn1.exe
+D:\English\DoAn2\DoAn1\bin\Debug\DoAn1.pdb
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\English\DoAn2\DoAn1\bin\Debug\EnvDTE.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\English\DoAn2\DoAn1\bin\Debug\stdole.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\English\DoAn2\DoAn1\bin\Debug\EnvDTE80.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\English\DoAn2\DoAn1\bin\Debug\VSLangProj.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\English\DoAn2\DoAn1\bin\Debug\VSLangProj80.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Newtonsoft.Json.dll
+D:\English\DoAn2\DoAn1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.MSXML.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Framework.dll
+D:\English\DoAn2\DoAn1\bin\Debug\VSLangProj2.dll
+D:\English\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\English\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.exe.config
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.DanhMuc.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.Form1.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.HoaDon.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.KhachHang.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.KhoNhapVe.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.LichSuNhapHang.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.LuaChonNhapKho.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.NhanVien.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.NhapHang.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.QuanLiBanHang.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.ReportDanhThu.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.reportInHoaDon.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.exe
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.pdb
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.HOME.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.NhaCungCap.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.ThemKH.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.SuaKH.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.ThemNV.resources
+D:\English\DoAn2\DoAn1\obj\Debug\DoAn1.SuaNV.resources
+E:\New folder\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\DoAn1.exe.config
+E:\New folder\DoAn2\DoAn1\bin\Debug\DoAn1.exe
+E:\New folder\DoAn2\DoAn1\bin\Debug\DoAn1.pdb
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\EnvDTE.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\stdole.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\EnvDTE80.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\VSLangProj.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\VSLangProj80.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Newtonsoft.Json.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.MSXML.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.Build.Framework.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\VSLangProj2.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\New folder\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.exe.config
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.Form1.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.FormChinh.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.HangHoa.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.HoaDon.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.HOME.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.KhachHang.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.KhoNhapVe.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.LichSuNhapHang.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.LuaChonNhapKho.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.NhaCungCap.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.NhanVien.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.NhapHang.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.QuanLiBanHang.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.ReportDanhThu.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.reportInHoaDon.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.SuaKH.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.SuaNV.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.ThemHangHoa.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.ThemKH.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.ThemNV.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.exe
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.pdb
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.GioiThieu.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.ThemNCC.resources
+E:\New folder\DoAn2\DoAn1\obj\Debug\DoAn1.SuaNCC.resources
